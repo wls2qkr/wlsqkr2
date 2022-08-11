@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlsqkr2222)](https://solved.ac/wlsqkr2222/)
+
 
 ![Jin Park's GitHub stats](https://github-readme-stats.vercel.app/api?username=wlsqkr2&show_icons=true&theme=default)
 
